@@ -1,2 +1,1 @@
-worker: redis-server --daemonize yes && python main.py
-
+worker: python main.py
