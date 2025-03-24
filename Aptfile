@@ -1,0 +1,7 @@
+ffmpeg
+libmagic1
+libffi-dev
+libnacl-dev
+libopus-dev
+libpq-dev
+libcairo2
