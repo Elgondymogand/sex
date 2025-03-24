@@ -1,0 +1,20 @@
+{
+  "name": "My Telegram Bot",
+  "description": "بوت تيليجرام يعمل بواسطة Pyrogram",
+  "repository": "https://github.com/Elgondymogand/TnTisis", 
+  "keywords": ["telegram", "bot", "pyrogram", "redis"],
+  "buildpacks": [
+    {"url": "heroku/python"},
+    {"url": "https://github.com/heroku/heroku-buildpack-apt"}
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "توكن البوت من @BotFather",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "معرف صاحب البوت (ID)",
+      "required": true
+    }
+  }
+}
