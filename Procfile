@@ -1,2 +1,2 @@
-worker: redis-server && python main.py
+worker: python main.py
 
