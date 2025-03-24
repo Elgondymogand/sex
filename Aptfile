@@ -5,3 +5,4 @@ libnacl-dev
 libopus-dev
 libpq-dev
 libcairo2
+redis-server

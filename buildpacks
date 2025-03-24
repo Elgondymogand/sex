@@ -1,0 +1,4 @@
+https://github.com/heroku/heroku-buildpack-apt.git
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/riganf/heroku-buildpack-p7zip
+https://github.com/chrismytton/heroku-buildpack-jq
