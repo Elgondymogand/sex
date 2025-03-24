@@ -1,6 +1,6 @@
 
 
-libmagic1
+libmagic-dev
 libffi-dev
 libnacl-dev
 libopus-dev
